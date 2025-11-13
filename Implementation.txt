@@ -1,0 +1,80 @@
+Author Class
+    Complete the add_book method:
+        Add the given book to the author's books set.
+        Ensure you don't add duplicate books.
+
+Book Class
+    Implement the __str__ method:
+        Return a string representation of the book, including title, author name, and year.
+        Example: "The Great Gatsby by F. Scott Fitzgerald (1925)"
+
+Customer Class
+    Implement the borrow_book method:
+        Add the given book to the customer's borrowed_books list.
+        Ensure the same book isn't borrowed twice.
+
+    Implement the return_book method:
+        Remove the given book from the customer's borrowed_books list.
+        Handle the case where the book wasn't borrowed by this customer.
+
+    Implement the get_borrowed_books method:
+        Return the list of books currently borrowed by the customer.
+
+LibraryManagementSystem Class
+    Implement the add_book method:
+        Create a new Book object and add it to the books dictionary.
+        If the author doesn't exist, create a new Author object and add it to the authors dictionary.
+        Add the book to the author's collection.
+        Update the genre_classification dictionary.
+
+    Implement the register_customer method:
+        Create a new Customer object with a unique ID.
+        Add the customer to the customers dictionary.
+        Return the new customer ID.
+
+    Implement the borrow_book method:
+        Check if the book is available and the customer exists.
+        Update the book's available copies.
+        Call the customer's borrow_book method.
+        Handle cases where the book or customer doesn't exist, or the book is unavailable.
+
+    Implement the return_book method:
+        Check if the customer has borrowed the book.
+        Update the book's available copies.
+        Call the customer's return_book method.
+        Handle cases where the book or customer doesn't exist, or the customer hasn't borrowed the book.
+
+    Implement the search_books method:
+        Allow searching by title, author name, or ISBN.
+        Return a list of matching Book objects.
+
+    Implement the display_available_books method:
+        Return a list of all books with available copies.
+
+    Implement the display_customer_books method:
+        Return a list of books currently borrowed by the given customer.
+
+    Implement the recommend_books method:
+        Recommend books based on the genres of books the customer has borrowed.
+        Return a list of up to 5 recommended books.
+
+    Implement the add_to_waitlist method:
+        Add a customer to a book's waitlist if the book is currently unavailable.
+
+    Implement the check_late_returns method:
+        Check all borrowed books and return a list of late returns.
+        Assume a book is late if it has been borrowed for more than the given number of days.
+
+    Implement the run method:
+        Create a console interface for interacting with the library system.
+        Display the following menu options and handle user input to call appropriate methods.
+        Add Book
+        Register Customer
+        Borrow Book
+        Return Book
+        Search Books
+        Display Available Books
+        Display Customer's Borrowed Books
+        Recommend Books
+        Check Late Returns
+        Exit

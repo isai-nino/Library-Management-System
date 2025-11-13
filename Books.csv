@@ -1,0 +1,291 @@
+ISBN,Title,Author Name,Author Birth Year,Year,Copies,Genre
+1000001,The Great Gatsby,F. Scott Fitzgerald,1896,1925,5,Classic
+1000002,To Kill a Mockingbird,Harper Lee,1926,1960,4,Fiction
+1000003,1984,George Orwell,1903,1949,6,Dystopian
+1000004,Pride and Prejudice,Jane Austen,1775,1813,7,Romance
+1000005,The Catcher in the Rye,J.D. Salinger,1919,1951,3,Fiction
+1000006,The Hobbit,J.R.R. Tolkien,1892,1937,5,Fantasy
+1000007,Fahrenheit 451,Ray Bradbury,1920,1953,4,Dystopian
+1000008,Moby-Dick,Herman Melville,1819,1851,2,Adventure
+1000009,War and Peace,Leo Tolstoy,1828,1869,3,Historical
+1000011,Crime and Punishment,Fyodor Dostoevsky,1821,1866,4,Philosophical
+1000012,Jane Eyre,Charlotte Brontë,1816,1847,5,Gothic
+1000013,Wuthering Heights,Emily Brontë,1818,1847,4,Gothic
+1000014,Brave New World,Aldous Huxley,1894,1932,6,Dystopian
+1000015,The Lord of the Rings,J.R.R. Tolkien,1892,1954,8,Fantasy
+1000016,The Alchemist,Paulo Coelho,1947,1988,7,Adventure
+1000017,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1965,1997,10,Fantasy
+1000018,"The Lion, the Witch and the Wardrobe",C.S. Lewis,1898,1950,5,Fantasy
+1000019,The Grapes of Wrath,John Steinbeck,1902,1939,4,Fiction
+1000020,The Kite Runner,Khaled Hosseini,1965,2003,6,Drama
+1000021,Animal Farm,George Orwell,1903,1945,5,Political
+1000022,The Da Vinci Code,Dan Brown,1964,2003,7,Thriller
+1000023,Les Misérables,Victor Hugo,1802,1862,3,Historical
+1000024,A Tale of Two Cities,Charles Dickens,1812,1859,5,Historical
+1000025,Don Quixote,Miguel de Cervantes,1547,1605,4,Classic
+1000026,One Hundred Years of Solitude,Gabriel García Márquez,1927,1967,6,Magic Realism
+1000027,The Old Man and The Sea,Ernest Hemingway,1899,1952,5,Fiction
+1000028,The Picture of Dorian Gray,Oscar Wilde,1854,1890,4,Philosophical
+1000029,The Brothers Karamazov,Fyodor Dostoevsky,1821,1880,3,Philosophical
+1000030,Dracula,Bram Stoker,1847,1897,5,Horror
+1000031,Lolita,Vladimir Nabokov,1899,1955,4,Classic
+1000032,Madame Bovary,Gustave Flaubert,1821,1856,3,Classic
+1000033,The Sound and the Fury,William Faulkner,1897,1929,2,Fiction
+1000034,Frankenstein,Mary Shelley,1797,1818,5,Horror
+1000035,The Divine Comedy,Dante Alighieri,1265,1320,4,Classic
+1000037,The Sun Also Rises,Ernest Hemingway,1899,1926,4,Fiction
+1000038,A Farewell to Arms,Ernest Hemingway,1899,1929,3,Fiction
+1000039,Gone with the Wind,Margaret Mitchell,1900,1936,5,Historical
+1000040,The Adventures of Huckleberry Finn,Mark Twain,1835,1884,6,Adventure
+1000041,Slaughterhouse-Five,Kurt Vonnegut,1922,1969,4,Science Fiction
+1000042,Lord of the Flies,William Golding,1911,1954,5,Fiction
+1000043,The Chronicles of Narnia,C.S. Lewis,1898,1950,7,Fantasy
+1000044,Catch-22,Joseph Heller,1923,1961,4,Satire
+1000045,Ulysses,James Joyce,1882,1922,3,Modernist
+1000046,The Color Purple,Alice Walker,1944,1982,5,Fiction
+1000047,Heart of Darkness,Joseph Conrad,1857,1899,4,Classic
+1000048,Rebecca,Daphne du Maurier,1907,1938,4,Gothic
+1000049,Alice's Adventures in Wonderland,Lewis Carroll,1832,1865,6,Fantasy
+1000050,The Metamorphosis,Franz Kafka,1883,1915,4,Existential
+1000051,The Stranger,Albert Camus,1913,1942,5,Philosophical
+1000052,The Road,Cormac McCarthy,1933,2006,4,Post-Apocalyptic
+1000053,Beloved,Toni Morrison,1931,1987,3,Fiction
+1000054,The Handmaid's Tale,Margaret Atwood,1939,1985,5,Dystopian
+1000055,Middlemarch,George Eliot,1819,1871,4,Classic
+1000056,Great Expectations,Charles Dickens,1812,1861,5,Classic
+1000057,Anna Karenina,Leo Tolstoy,1828,1877,4,Romance
+1000058,The Count of Monte Cristo,Alexandre Dumas,1802,1844,6,Adventure
+1000059,Sense and Sensibility,Jane Austen,1775,1811,5,Romance
+1000060,Invisible Man,Ralph Ellison,1914,1952,3,Fiction
+1000061,Things Fall Apart,Chinua Achebe,1930,1958,4,Historical
+1000062,Emma,Jane Austen,1775,1815,5,Romance
+1000063,Of Mice and Men,John Steinbeck,1902,1937,6,Fiction
+1000064,Macbeth,William Shakespeare,1564,1606,4,Tragedy
+1000065,Hamlet,William Shakespeare,1564,1603,5,Tragedy
+1000066,Othello,William Shakespeare,1564,1603,4,Tragedy
+1000067,King Lear,William Shakespeare,1564,1606,3,Tragedy
+1000068,The Tempest,William Shakespeare,1564,1611,4,Comedy
+1000069,As You Like It,William Shakespeare,1564,1599,5,Comedy
+1000070,A Midsummer Night's Dream,William Shakespeare,1564,1596,6,Comedy
+1000071,The Merchant of Venice,William Shakespeare,1564,1600,4,Comedy
+1000072,The Scarlet Letter,Nathaniel Hawthorne,1804,1850,5,Fiction
+1000073,The Jungle,Upton Sinclair,1878,1906,4,Fiction
+1000074,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1850,1886,4,Horror
+1000075,Gulliver's Travels,Jonathan Swift,1667,1726,5,Satire
+1000076,The Secret Garden,Frances Hodgson Burnett,1849,1911,6,Children
+1000077,Charlie and the Chocolate Factory,Roald Dahl,1916,1964,7,Children
+1000078,Matilda,Roald Dahl,1916,1988,6,Children
+1000079,The Shining,Stephen King,1947,1977,5,Horror
+1000080,It,Stephen King,1947,1986,4,Horror
+1000081,Misery,Stephen King,1947,1987,3,Horror
+1000082,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1952,1979,5,Science Fiction
+1000083,Dune,Frank Herbert,1920,1965,4,Science Fiction
+1000084,Ender's Game,Orson Scott Card,1951,1985,6,Science Fiction
+1000085,Neuromancer,William Gibson,1948,1984,3,Science Fiction
+1000086,Do Androids Dream of Electric Sheep?,Philip K. Dick,1928,1968,4,Science Fiction
+1000087,The Time Machine,H.G. Wells,1866,1895,5,Science Fiction
+1000088,The War of the Worlds,H.G. Wells,1866,1898,4,Science Fiction
+1000089,The Invisible Man,H.G. Wells,1866,1897,3,Science Fiction
+1000090,Journey to the Center of the Earth,Jules Verne,1828,1864,4,Science Fiction
+1000091,Twenty Thousand Leagues Under the Sea,Jules Verne,1828,1870,5,Adventure
+1000092,The Call of the Wild,Jack London,1876,1903,6,Adventure
+1000093,White Fang,Jack London,1876,1906,4,Adventure
+1000094,The Giver,Lois Lowry,1937,1993,5,Young Adult
+1000095,The Outsiders,S.E. Hinton,1948,1967,4,Young Adult
+1000096,The Fault in Our Stars,John Green,1977,2012,5,Young Adult
+1000097,The Hunger Games,Suzanne Collins,1962,2008,7,Dystopian
+1000098,Divergent,Veronica Roth,1988,2011,6,Dystopian
+1000099,The Maze Runner,James Dashner,1972,2009,5,Dystopian
+1000100,Ready Player One,Ernest Cline,1972,2011,5,Science Fiction
+1000101,The Wind-Up Bird Chronicle,Haruki Murakami,1949,1994,5,Magical Realism
+1000102,Norwegian Wood,Haruki Murakami,1949,1987,4,Fiction
+1000103,Kafka on the Shore,Haruki Murakami,1949,2002,6,Magical Realism
+1000108,Meditations,Marcus Aurelius,121,180,3,Philosophy
+1000110,The Prince,Niccolò Machiavelli,1469,1532,4,Political
+1000111,The Wealth of Nations,Adam Smith,1723,1776,2,Economics
+1000112,Capital in the Twenty-First Century,Thomas Piketty,1971,2013,3,Economics
+1000113,A Brief History of Time,Stephen Hawking,1942,1988,6,Science
+1000114,The Selfish Gene,Richard Dawkins,1941,1976,4,Science
+1000115,Silent Spring,Rachel Carson,1907,1962,3,Environmental
+1000116,The God Delusion,Richard Dawkins,1941,2006,5,Philosophy
+1000117,Sapiens: A Brief History of Humankind,Yuval Noah Harari,1976,2011,6,History
+1000118,Educated,Tara Westover,1986,2018,4,Memoir
+1000119,Becoming,Michelle Obama,1964,2018,5,Memoir
+1000120,The Diary of a Young Girl,Anne Frank,1929,1947,5,Biography
+1000121,Long Walk to Freedom,Nelson Mandela,1918,1994,3,Autobiography
+1000122,Steve Jobs,Walter Isaacson,1952,2011,4,Biography
+1000124,Man's Search for Meaning,Viktor E. Frankl,1905,1946,4,Psychology
+1000125,The Power of Habit,Charles Duhigg,1974,2012,5,Self-Help
+1000126,Atomic Habits,James Clear,1986,2018,6,Self-Help
+1000127,The 7 Habits of Highly Effective People,Stephen R. Covey,1932,1989,5,Self-Help
+1000128,How to Win Friends and Influence People,Dale Carnegie,1888,1936,4,Self-Help
+1000129,On the Road,Jack Kerouac,1922,1957,3,Beat
+1000130,The Bell Jar,Sylvia Plath,1932,1963,4,Fiction
+1000131,The Left Hand of Darkness,Ursula K. Le Guin,1929,1969,5,Science Fiction
+1000132,The Name of the Rose,Umberto Eco,1932,1980,4,Historical
+1000133,The Unbearable Lightness of Being,Milan Kundera,1929,1984,3,Philosophical
+1000134,Love in the Time of Cholera,Gabriel García Márquez,1927,1985,5,Romance
+1000135,The Trial,Franz Kafka,1883,1925,4,Existential
+1000136,The Castle,Franz Kafka,1883,1926,3,Existential
+1000137,The Idiot,Fyodor Dostoevsky,1821,1869,4,Philosophical
+1000138,Notes from Underground,Fyodor Dostoevsky,1821,1864,3,Philosophical
+1000139,Siddhartha,Hermann Hesse,1877,1922,5,Spiritual
+1000140,Steppenwolf,Hermann Hesse,1877,1927,4,Fiction
+1000141,The Glass Bead Game,Hermann Hesse,1877,1943,3,Philosophical
+1000142,Thus Spoke Zarathustra,Friedrich Nietzsche,1844,1883,2,Philosophy
+1000143,Demons,Fyodor Dostoevsky,1821,1872,3,Political
+1000144,Doctor Zhivago,Boris Pasternak,1890,1957,4,Historical
+1000145,The Master and Margarita,Mikhail Bulgakov,1891,1967,5,Satire
+1000146,Dead Souls,Nikolai Gogol,1809,1842,3,Satire
+1000147,The Hunchback of Notre-Dame,Victor Hugo,1802,1831,4,Gothic
+1000148,The Stranger,Albert Camus,1913,1942,5,Philosophical
+1000149,The Plague,Albert Camus,1913,1947,4,Philosophical
+1000150,The Myth of Sisyphus,Albert Camus,1913,1942,3,Philosophy
+1000151,Les Fleurs du mal,Charles Baudelaire,1821,1857,2,Poetry
+1000152,The Picture of Dorian Gray,Oscar Wilde,1854,1890,4,Philosophical
+1000153,The Importance of Being Earnest,Oscar Wilde,1854,1895,3,Comedy
+1000154,To the Lighthouse,Virginia Woolf,1882,1927,4,Modernist
+1000155,Mrs Dalloway,Virginia Woolf,1882,1925,3,Modernist
+1000156,Orlando,Virginia Woolf,1882,1928,4,Fiction
+1000157,A Room of One's Own,Virginia Woolf,1882,1929,3,Essay
+1000158,Beloved,Toni Morrison,1931,1987,3,Fiction
+1000159,Song of Solomon,Toni Morrison,1931,1977,4,Fiction
+1000160,The Bluest Eye,Toni Morrison,1931,1970,5,Fiction
+1000161,Invisible Man,Ralph Ellison,1914,1952,3,Fiction
+1000162,Native Son,Richard Wright,1908,1940,4,Fiction
+1000163,Their Eyes Were Watching God,Zora Neale Hurston,1891,1937,5,Fiction
+1000164,The Sound and the Fury,William Faulkner,1897,1929,2,Fiction
+1000165,Light in August,William Faulkner,1897,1932,3,Fiction
+1000167,East of Eden,John Steinbeck,1902,1952,4,Fiction
+1000168,Cannery Row,John Steinbeck,1902,1945,3,Fiction
+1000169,The Pearl,John Steinbeck,1902,1947,5,Fiction
+1000170,The Sun Also Rises,Ernest Hemingway,1899,1926,4,Fiction
+1000171,A Farewell to Arms,Ernest Hemingway,1899,1929,3,Fiction
+1000172,For Whom the Bell Tolls,Ernest Hemingway,1899,1940,4,Fiction
+1000173,Middlemarch,George Eliot,1819,1871,4,Classic
+1000174,Daniel Deronda,George Eliot,1819,1876,3,Classic
+1000175,Silas Marner,George Eliot,1819,1861,4,Classic
+1000176,Wuthering Heights,Emily Brontë,1818,1847,4,Gothic
+1000177,Agnes Grey,Anne Brontë,1820,1847,3,Classic
+1000178,The Tenant of Wildfell Hall,Anne Brontë,1820,1848,4,Classic
+1000179,Dracula,Bram Stoker,1847,1897,5,Horror
+1000180,Rebecca,Daphne du Maurier,1907,1938,4,Gothic
+1000181,The Secret History,Donna Tartt,1963,1992,5,Mystery
+1000182,The Goldfinch,Donna Tartt,1963,2013,4,Fiction
+1000183,The Little Friend,Donna Tartt,1963,2002,3,Fiction
+1000184,Gone Girl,Gillian Flynn,1971,2012,5,Thriller
+1000185,Sharp Objects,Gillian Flynn,1971,2006,4,Thriller
+1000186,Dark Places,Gillian Flynn,1971,2009,3,Thriller
+1000187,The Girl with the Dragon Tattoo,Stieg Larsson,1954,2005,5,Thriller
+1000188,The Girl Who Played with Fire,Stieg Larsson,1954,2006,4,Thriller
+1000189,The Girl Who Kicked the Hornets' Nest,Stieg Larsson,1954,2007,3,Thriller
+1000190,The Da Vinci Code,Dan Brown,1964,2003,7,Thriller
+1000191,Angels & Demons,Dan Brown,1964,2000,6,Thriller
+1000192,Inferno,Dan Brown,1964,2013,5,Thriller
+1000193,The Hobbit,J.R.R. Tolkien,1892,1937,5,Fantasy
+1000194,The Fellowship of the Ring,J.R.R. Tolkien,1892,1954,8,Fantasy
+1000195,The Two Towers,J.R.R. Tolkien,1892,1954,8,Fantasy
+1000196,The Return of the King,J.R.R. Tolkien,1892,1955,8,Fantasy
+1000197,A Game of Thrones,George R.R. Martin,1948,1996,7,Fantasy
+1000198,A Clash of Kings,George R.R. Martin,1948,1998,6,Fantasy
+1000199,A Storm of Swords,George R.R. Martin,1948,2000,5,Fantasy
+1000200,A Feast for Crows,George R.R. Martin,1948,2005,4,Fantasy
+1000201,A Dance with Dragons,George R.R. Martin,1948,2011,3,Fantasy
+1000202,The Name of the Wind,Patrick Rothfuss,1973,2007,6,Fantasy
+1000203,The Wise Man's Fear,Patrick Rothfuss,1973,2011,5,Fantasy
+1000204,The Blade Itself,Joe Abercrombie,1974,2006,4,Fantasy
+1000205,Before They Are Hanged,Joe Abercrombie,1974,2007,3,Fantasy
+1000206,Last Argument of Kings,Joe Abercrombie,1974,2008,2,Fantasy
+1000207,The Way of Kings,Brandon Sanderson,1975,2010,7,Fantasy
+1000208,Words of Radiance,Brandon Sanderson,1975,2014,6,Fantasy
+1000209,Oathbringer,Brandon Sanderson,1975,2017,5,Fantasy
+1000210,Dune,Frank Herbert,1920,1965,4,Science Fiction
+1000211,Dune Messiah,Frank Herbert,1920,1969,3,Science Fiction
+1000212,Children of Dune,Frank Herbert,1920,1976,2,Science Fiction
+1000213,Neuromancer,William Gibson,1948,1984,3,Science Fiction
+1000214,Count Zero,William Gibson,1948,1986,2,Science Fiction
+1000215,Mona Lisa Overdrive,William Gibson,1948,1988,2,Science Fiction
+1000216,Snow Crash,Neal Stephenson,1959,1992,4,Science Fiction
+1000217,Cryptonomicon,Neal Stephenson,1959,1999,3,Science Fiction
+1000218,Anathem,Neal Stephenson,1959,2008,2,Science Fiction
+1000219,Foundation,Isaac Asimov,1920,1951,5,Science Fiction
+1000220,Foundation and Empire,Isaac Asimov,1920,1952,4,Science Fiction
+1000221,Second Foundation,Isaac Asimov,1920,1953,3,Science Fiction
+1000223,Do Androids Dream of Electric Sheep?,Philip K. Dick,1928,1968,4,Science Fiction
+1000224,Ubik,Philip K. Dick,1928,1969,3,Science Fiction
+1000225,The Man in the High Castle,Philip K. Dick,1928,1962,4,Science Fiction
+1000226,Brave New World,Aldous Huxley,1894,1932,6,Dystopian
+1000227,Fahrenheit 451,Ray Bradbury,1920,1953,4,Dystopian
+1000228,1984,George Orwell,1903,1949,6,Dystopian
+1000229,Animal Farm,George Orwell,1903,1945,5,Political
+1000230,The Road,Cormac McCarthy,1933,2006,4,Post-Apocalyptic
+1000231,Blood Meridian,Cormac McCarthy,1933,1985,3,Western
+1000232,No Country for Old Men,Cormac McCarthy,1933,2005,4,Thriller
+1000233,The Stand,Stephen King,1947,1978,5,Horror
+1000234,The Dark Tower: The Gunslinger,Stephen King,1947,1982,4,Fantasy
+1000235,American Gods,Neil Gaiman,1960,2001,5,Fantasy
+1000236,Neverwhere,Neil Gaiman,1960,1996,4,Fantasy
+1000237,Good Omens,Neil Gaiman & Terry Pratchett,1960,1990,5,Fantasy
+1000238,The Color of Magic,Terry Pratchett,1948,1983,6,Fantasy
+1000239,Guards! Guards!,Terry Pratchett,1948,1989,5,Fantasy
+1000240,Small Gods,Terry Pratchett,1948,1992,4,Fantasy
+1000241,The Lies of Locke Lamora,Scott Lynch,1978,2006,5,Fantasy
+1000242,Red Seas Under Red Skies,Scott Lynch,1978,2007,4,Fantasy
+1000243,Republic of Thieves,Scott Lynch,1978,2013,3,Fantasy
+1000244,The Kite Runner,Khaled Hosseini,1965,2003,6,Drama
+1000245,A Thousand Splendid Suns,Khaled Hosseini,1965,2007,5,Drama
+1000246,And the Mountains Echoed,Khaled Hosseini,1965,2013,4,Drama
+1000247,Life of Pi,Yann Martel,1963,2001,5,Fiction
+1000248,The Life-Changing Magic of Tidying Up,Marie Kondo,1984,2011,4,Self-Help
+1000249,The Alchemist,Paulo Coelho,1947,1988,7,Adventure
+1000250,The Pilgrimage,Paulo Coelho,1947,1987,5,Adventure
+1000251,Veronika Decides to Die,Paulo Coelho,1947,1998,4,Fiction
+1000252,Memoirs of a Geisha,Arthur Golden,1956,1997,5,Historical
+1000253,The Book Thief,Markus Zusak,1975,2005,6,Historical
+1000254,All the Light We Cannot See,Anthony Doerr,1973,2014,5,Historical
+1000255,The Help,Kathryn Stockett,1969,2009,5,Fiction
+1000256,The Girl on the Train,Paula Hawkins,1972,2015,4,Thriller
+1000257,Big Little Lies,Liane Moriarty,1966,2014,4,Fiction
+1000258,Eleanor Oliphant Is Completely Fine,Gail Honeyman,1972,2017,4,Fiction
+1000259,The Martian,Andy Weir,1972,2011,5,Science Fiction
+1000260,Ready Player One,Ernest Cline,1972,2011,5,Science Fiction
+1000261,Artemis,Andy Weir,1972,2017,4,Science Fiction
+1000262,The Fault in Our Stars,John Green,1977,2012,5,Young Adult
+1000263,Looking for Alaska,John Green,1977,2005,4,Young Adult
+1000264,Paper Towns,John Green,1977,2008,4,Young Adult
+1000265,The Perks of Being a Wallflower,Stephen Chbosky,1970,1999,5,Young Adult
+1000266,Thirteen Reasons Why,Jay Asher,1975,2007,4,Young Adult
+1000267,Divergent,Veronica Roth,1988,2011,6,Dystopian
+1000268,Insurgent,Veronica Roth,1988,2012,5,Dystopian
+1000269,Allegiant,Veronica Roth,1988,2013,4,Dystopian
+1000270,The Hunger Games,Suzanne Collins,1962,2008,7,Dystopian
+1000271,Catching Fire,Suzanne Collins,1962,2009,6,Dystopian
+1000272,Mockingjay,Suzanne Collins,1962,2010,5,Dystopian
+1000273,The Maze Runner,James Dashner,1972,2009,5,Dystopian
+1000274,The Scorch Trials,James Dashner,1972,2010,4,Dystopian
+1000275,The Death Cure,James Dashner,1972,2011,3,Dystopian
+1000276,City of Bones,Cassandra Clare,1973,2007,6,Fantasy
+1000277,City of Ashes,Cassandra Clare,1973,2008,5,Fantasy
+1000278,City of Glass,Cassandra Clare,1973,2009,4,Fantasy
+1000279,The Lightning Thief,Rick Riordan,1964,2005,7,Fantasy
+1000280,The Sea of Monsters,Rick Riordan,1964,2006,6,Fantasy
+1000281,The Titan's Curse,Rick Riordan,1964,2007,5,Fantasy
+1000282,The Hate U Give,Angie Thomas,1988,2017,5,Young Adult
+1000283,Children of Blood and Bone,Tomi Adeyemi,1993,2018,4,Fantasy
+1000284,Red Queen,Victoria Aveyard,1990,2015,5,Fantasy
+1000285,Shadow and Bone,Leigh Bardugo,1975,2012,6,Fantasy
+1000286,Six of Crows,Leigh Bardugo,1975,2015,5,Fantasy
+1000287,Crooked Kingdom,Leigh Bardugo,1975,2016,4,Fantasy
+1000288,Circe,Madeline Miller,1978,2018,5,Mythology
+1000289,The Song of Achilles,Madeline Miller,1978,2011,4,Mythology
+1000290,The Silent Patient,Alex Michaelides,1977,2019,5,Thriller
+1000291,Where the Crawdads Sing,Delia Owens,1949,2018,5,Fiction
+1000292,Little Fires Everywhere,Celeste Ng,1980,2017,4,Fiction
+1000293,Normal People,Sally Rooney,1991,2018,4,Fiction
+1000294,The Vanishing Half,Brit Bennett,1990,2020,5,Fiction
+1000295,An American Marriage,Tayari Jones,1970,2018,4,Fiction
+1000296,The Midnight Library,Matt Haig,1975,2020,5,Fiction
+1000297,Project Hail Mary,Andy Weir,1972,2021,4,Science Fiction
+1000298,Klara and the Sun,Kazuo Ishiguro,1954,2021,4,Science Fiction
+1000299,The Invisible Life of Addie LaRue,V.E. Schwab,1987,2020,5,Fantasy
+1000300,Piranesi,Susanna Clarke,1959,2020,4,Fantasy
